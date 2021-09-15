@@ -3,4 +3,4 @@ Amplicación móvil que permita ser utilizada como un instrumento de apoyo en de
 
 Desarrollada por: Edgar Villamarín
 
-![](Ship-Stability-App/Version 0_EdgarVillamarin.PNG)
+![](Ship-Stability-App/Version%200_EdgarVillamarin.PNG)
